@@ -1,0 +1,11 @@
+media,ownerId,finalID,filterId,geoID
+http://filter1,ieu,1,10,0
+http://filter2,ieu,2,0,4
+http://filter3,margretw,3,6,0
+http://filter4,margretw,4,3,5
+http://filter5,azheng,5,1,6
+http://filter6,azheng,6,0,0
+http://filter7,dlizhang98,7,3,7
+http://filter8,dlizhang98,8,4,4
+http://filter9,asager,9,5,8
+http://filter10,asager,10,8,6
